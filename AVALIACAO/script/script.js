@@ -31,9 +31,6 @@
     `;
 }
 
- if (window.location.pathname.includes('simulacao.html')) {
+ if (window.location.pathname.includes('simulador.html')) {
     calcularSimulacao();
-}
-window.onload = () => {calcularSimulacao();
-
 }
