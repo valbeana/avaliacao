@@ -1,0 +1,9 @@
+@font-face {
+    font-family:"regular";
+    src: url(../fonts/Oswald-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "bold";
+    src: url(../fonts/Montserrat-Italiv-VariableFont_wght.ttf);
+}
